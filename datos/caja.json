@@ -1,0 +1,32 @@
+[
+    {
+        "fecha": "2026-11-11 17:42:30",
+        "tipo": "Entrada",
+        "concepto": "Venta V20261111174230019342",
+        "valor": 2500.0
+    },
+    {
+        "fecha": "2026-11-11 18:51:48",
+        "tipo": "Entrada",
+        "concepto": "Venta V20261111185148361020",
+        "valor": 3000.0
+    },
+    {
+        "fecha": "2026-11-17 08:22:07",
+        "tipo": "Salida",
+        "concepto": "Devolución de V20261111185148361020",
+        "valor": 3000.0
+    },
+    {
+        "fecha": "2026-11-17 08:23:43",
+        "tipo": "Entrada",
+        "concepto": "Venta V20261117082343817713",
+        "valor": 65000.0
+    },
+    {
+        "fecha": "2026-11-17 08:24:53",
+        "tipo": "Salida",
+        "concepto": "cierre caja",
+        "valor": 67500.0
+    }
+]

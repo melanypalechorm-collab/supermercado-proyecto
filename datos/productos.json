@@ -1,0 +1,47 @@
+[
+    {
+        "codigo": "223",
+        "nombre": "arroz",
+        "categoria": "granos",
+        "precio_compra": 2200.0,
+        "precio_venta": 2500.0,
+        "stock": 4,
+        "stock_minimo": 3
+    },
+    {
+        "codigo": "323",
+        "nombre": "frijol",
+        "categoria": "granos",
+        "precio_compra": 1250.0,
+        "precio_venta": 2200.0,
+        "stock": 53,
+        "stock_minimo": 20
+    },
+    {
+        "codigo": "534",
+        "nombre": "leche",
+        "categoria": "lacteos",
+        "precio_compra": 5000.0,
+        "precio_venta": 6500.0,
+        "stock": 4,
+        "stock_minimo": 5
+    },
+    {
+        "codigo": "1",
+        "nombre": "manzana",
+        "categoria": "frutas",
+        "precio_compra": 2000.0,
+        "precio_venta": 3000.0,
+        "stock": 66,
+        "stock_minimo": 20
+    },
+    {
+        "codigo": "007",
+        "nombre": "alpin",
+        "categoria": "lacteos",
+        "precio_compra": 1500.0,
+        "precio_venta": 2500.0,
+        "stock": 15,
+        "stock_minimo": 5
+    }
+]

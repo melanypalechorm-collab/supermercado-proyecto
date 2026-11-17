@@ -1,0 +1,47 @@
+[
+    {
+        "id": "V20261111174230019342",
+        "fecha": "2026-11-11 17:42:30",
+        "items": [
+            {
+                "codigo": "223",
+                "nombre": "arroz",
+                "precio": 2500.0,
+                "cantidad": 1,
+                "subtotal": 2500.0,
+                "devuelto": 0
+            }
+        ],
+        "total": 2500.0
+    },
+    {
+        "id": "V20261111185148361020",
+        "fecha": "2026-11-11 18:51:48",
+        "items": [
+            {
+                "codigo": "1",
+                "nombre": "manzana",
+                "precio": 3000.0,
+                "cantidad": 1,
+                "subtotal": 3000.0,
+                "devuelto": 1
+            }
+        ],
+        "total": 3000.0
+    },
+    {
+        "id": "V20261117082343817713",
+        "fecha": "2026-11-17 08:23:43",
+        "items": [
+            {
+                "codigo": "534",
+                "nombre": "leche",
+                "precio": 6500.0,
+                "cantidad": 10,
+                "subtotal": 65000.0,
+                "devuelto": 0
+            }
+        ],
+        "total": 65000.0
+    }
+]
